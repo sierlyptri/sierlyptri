@@ -7,7 +7,7 @@ I'm a passionate Informatics Engineering student at Universitas Komputer Indones
 - 🎓 4th-semester student majoring in Informatics Engineering.
 - 🤖 Currently learning about **Machine Learning**, **Data Structures**, and **Algorithms**.
 - 🌱 Actively improving my skills in **Python**, **JavaScript**, and **Git**.
-- 🌏 Aspiring to make a positive impact through tech and collaboration (AIESEC enthusiast!).
+- 🌏 Aspiring to make a positive impact through tech and collaboration.
 
 ## 💻 Tech Stack
 - **Languages:** Python, JavaScript, C++
