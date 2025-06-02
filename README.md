@@ -4,7 +4,7 @@ Welcome to my GitHub profile!
 I'm a passionate Informatics Engineering student at Universitas Komputer Indonesia, currently exploring the world of **software development**, **machine learning**, and **beautiful algorithms** ✨.
 
 ## 🌸 About Me
-- 🎓 4rd-semester student majoring in Informatics Engineering.
+- 🎓 4th-semester student majoring in Informatics Engineering.
 - 🤖 Currently learning about **Machine Learning**, **Data Structures**, and **Algorithms**.
 - 🌱 Actively improving my skills in **Python**, **JavaScript**, and **Git**.
 - 🌏 Aspiring to make a positive impact through tech and collaboration (AIESEC enthusiast!).
