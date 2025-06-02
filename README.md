@@ -26,7 +26,7 @@ I'm a passionate Informatics Engineering student at Universitas Komputer Indones
 
 ## 📫 Let’s Connect!
 - 📧 Email: sierlypanjani89@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/sierlyanjani](https://linkedin.com/in/sierlyptri)
+- 💼 LinkedIn: [https://linkedin.com/in/sierlyptri]
 - 🌸 Portfolio: *[Coming soon...]*
 
 Thanks for visiting! 🌟 Let’s build something amazing together!
